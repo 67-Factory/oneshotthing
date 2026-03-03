@@ -2362,7 +2362,7 @@
         <skippable>F</skippable>
        </MoveRoute>
       </move_route>
-      <event_commands> -- hi guys
+      <event_commands>
        <EventCommand>
         <code>12010</code>
         <indent>0</indent>
@@ -2703,12 +2703,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-      <EventCommand>
-  <code>10210</code>
-  <indent>0</indent>
-  <string></string>
-  <parameters>0 96 96 1</parameters>
- </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 96 96 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>12410</code>
         <indent>0</indent>
